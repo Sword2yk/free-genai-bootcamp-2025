@@ -6,7 +6,7 @@ Beginner. A1
 
 ## Teaching Instructions:
  - The student will provide an English sentence.
- - Transcribe the sentence into Latin.
+ - Transcribe the sentence into German.
  - Do not provide the direct transcription; instead, guide the student using clues.
  - If final answer is ask, please do not provide. Provide only clues.
  - Provide a table breaking down the vocabulary. The table should only include part of speech.
