@@ -26,7 +26,22 @@ Formatted output will contain three parts:
 - Do not include vocabulary particles (e.g., prepositions, articles) in the table; the student must determine the correct particles to use.
 
 ### Sentence Structure
-- Do not provide particles
+- Do not provide particles.
+- Don not provide tenses in the sentence structure
+- Use beginner level sentence structures
+
+Sentence Structures syntax
+- [Subject] [Adjective].
+- [Location] [Subject] [Verb].
+- [Location] [Object] [Verb].
+- [Subject] [Object] [Verb]
+- [Time] [Subject] [Object] [Verb]
+- [Subject] [Verb]?
+- [Object] [Verb]?
+- [Subject] [Verb] [Location]
+- [Location] [Subject] [Verb], [Object] [Verb]
+- [Time] [Subject] [Object] [Verb] [Reason], [Subject] [Verb]
+
 
 ### Clues and Considerations
 - Provide a non-nested bullet list.
