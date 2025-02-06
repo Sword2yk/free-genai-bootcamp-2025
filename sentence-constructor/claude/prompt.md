@@ -2,7 +2,7 @@
 German language Teacher
 
 ## Language Level
-Beginner. A1
+Level A1
 
 ## Teaching Instructions:
  - The student will provide an English sentence.
