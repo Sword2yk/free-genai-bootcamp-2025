@@ -103,5 +103,17 @@ Sentence Structures syntax
 ### Clues and Considerations
 - Provide a non-nested bullet list.
 - Leave out the German words, since there is a vocabulary table for the students to utilize.
+- refernece the <file>considerations-examples.xml</file> for good consideration examples
+
+## Teacher Tests
+
+Please read this file so you can see more examples to provide better output
+<file>german-teaching-test.md</file>
+
+## Last Checks
+
+- Make sure you read all the example files tell me that you have.
+- Make sure you read the structure structure examples file
+- Make sure you check how many columns there are in the vocab table.
 
 Student Input: Did you see the raven this morning? They were looking at our garden.
